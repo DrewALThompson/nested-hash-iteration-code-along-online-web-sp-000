@@ -21,5 +21,7 @@ contacts.each do |person, data|
       value.shift
     end
   end
+end
   contacts
+end
 end
